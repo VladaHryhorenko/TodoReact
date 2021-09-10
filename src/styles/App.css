@@ -1,0 +1,6 @@
+.wrapper {
+    width: 600px;
+    margin: 200px auto 100px;
+    background-color: #fff;
+    box-shadow: 5px 6px 15px 5px rgba(127,127,127,0.62);
+}

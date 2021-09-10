@@ -1,0 +1,47 @@
+.footer {
+    padding: 20px 13px;
+    font-size: 16px;
+    color: #777;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-item {
+    margin: 0;
+}
+
+.clear-completed {
+    font-size: 16px;
+    color: #888;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.clear-completed:hover {
+    text-decoration: underline;
+}
+
+.sort__button {
+    font-size: 16px;
+    color: #777;
+    /* border: 2px solid #fff; */
+    margin: 0px 3px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+/* .sort__button:focus {
+    border: 1px solid pink;
+} */
+
+.sort__button_focus {
+    border: 1px solid pink;
+}
+
+.edit__input:focus {
+    border: 1px solid #222;
+}
